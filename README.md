@@ -1,8 +1,10 @@
-## Welcome to a collection of fun, brain-boosting games inspired by Cool Math Games! This project brings together interactive puzzles, logic challenges, and skill-based mini games that make learning math and problem-solving actually enjoyable.
+## Welcome to Cool Math Games!
+
+Welcome to a collection of fun, brain-boosting games inspired by Cool Math Games! This project brings together interactive puzzles, logic challenges, and skill-based mini games that make learning math and problem-solving actually enjoyable.
 
 Built with clean code and smooth gameplay in mind, these games are designed to sharpen thinking, improve reflexes, and keep players entertained — whether you're solving tricky puzzles or chasing high scores.
 
-Play. Think. Win. Repeat. 🧠✨ 👋
+Play. Think. Win. Repeat. 🧠✨
 
 <!--
 **coollmathgames/coollmathgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
