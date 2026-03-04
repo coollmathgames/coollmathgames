@@ -6,6 +6,12 @@ Built with clean code and smooth gameplay in mind, these games are designed to s
 
 Play. Think. Win. Repeat. 🧠✨
 
+Donations are highly apperciated as we do not make money from adverts
+
+Bitcoin - bc1q2uh9tdkvzrhk63pc7gl0ldct75dg2n09p2gv6m
+Solana - 2V9y79r74dH2jFu7wyQLheB9L9wTE1i5zpvf7JWi8Pnx
+Ethereum - 0x094ff1a36553aBb591B911AFf91E7f63cE146A14
+
 <!--
 **coollmathgames/coollmathgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
